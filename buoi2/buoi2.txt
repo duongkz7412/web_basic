@@ -1,0 +1,19 @@
+bảng :<table>
+		
+	</table>
+table row : <tr>
+			
+		</tr>
+table data : <td>
+
+		</td>
+table heading :
+table data 2 hang: <td rowspan ="2">
+
+		</td>
+table heading : <th>
+	
+		</th>
+ghép ngang : <th colspan="2">
+		
+		</td>
