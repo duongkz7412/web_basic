@@ -1,0 +1,26 @@
+<meta charset="utf-8"> : có thể hiển thị tiếng Việt có dấu 
+Có đầy đủ 3 phần : 
+1. khai báo phiên bản html.
+2. bộ thẻ head : thẻ head sẽ chứa những cái không hiển thị cho người dùng.
+3. body : chứa hiển thị cho người dùng.
+
+xuống hàng : <br> hoặc <\br> hoặc <br\>
+màu background : <body bgcolor="black"> 
+		   </body>
+màu chữ : <font color="white">
+					hello
+				</font>
+chèn ảnh : <img src="link đường dẫn ảnh trong máy"> 
+gạch chân chữ : <u> </u>
+in đậm : <b> </b>
+size chữ : <font color="gray" size="-2"> // -2 so với size mặc định
+			Tuyt Eng
+		</font>
+chèn ảnh full màn : <img src="link đường dẫn ảnh trong máy" width="100%" height="200px">
+gạch ngang trang : <hr>
+căn ảnh giữa : <p align="center">
+			<img src="" >
+		</p>
+căn chữ phải : <p align="right">
+			Next >>>>
+		</p>
